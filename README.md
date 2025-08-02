@@ -15,7 +15,7 @@ Analytics-focused B.Com student with hands-on experience in data manipulation, s
 St. Joseph's College of Commerce, Bengaluru  
 *2024 - 2027*  
 - **Relevant Coursework:** Business Statistics, Business Mathematics, R Programming, Spreadsheet Modeling, Financial Accounting  
-- **Academic Highlights:** Analytics Club Member  
+- **Academic Highlights:** Analytics Club Member | Department of Professional Programmes Member
 
 ---
 
