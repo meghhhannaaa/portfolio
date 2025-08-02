@@ -61,7 +61,7 @@ Broseph Foundation | Bengaluru
 
 ## Certifications  
 1. DataCamp: Intermediate R Programming (2025)  
-2. DataCamp: Introduction to R Programming (2024)  
+2. DataCamp: Introduction to R Programming (2025)  
 
 
 ---
