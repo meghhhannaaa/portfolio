@@ -22,7 +22,7 @@ St. Joseph's College of Commerce, Bengaluru
 ## Experience  
 
 **Data Analysis Intern**  
-Honey Drugs Pvt. Ltd. | Bengaluru  
+Honey Drugs | Bengaluru  
 *2024 - Present*  
 - Processed pharmaceutical sales data using Excel  
 - Supported inventory analysis 
