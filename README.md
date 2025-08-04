@@ -6,7 +6,7 @@ Expected Graduation: 2027
 ---
 
 ## Profile Summary  
-Analytics-focused B.Com student with hands-on experience in data manipulation, statistical analysis, and business intelligence tools. Proven ability to apply academic knowledge in real-world settings through internships and volunteer work. Seeking opportunities to leverage data-driven insights for business decision-making.
+I’m a B.Com student with a strong focus on analytics. I’ve got hands-on experience working with data—cleaning it, analyzing it, and using business intelligence tools to make sense of it. Through internships and volunteer work, I’ve learned how to take what I’ve studied and apply it to real business problems. Now, I’m looking for opportunities where I can use data to help companies make smarter decisions.
 
 ---
 
@@ -24,9 +24,9 @@ St. Joseph's College of Commerce, Bengaluru
 **Data Analysis Intern**  
 Honey Drugs Pvt. Ltd. | Bengaluru  
 *2024 - Present*  
-- Processed pharmaceutical sales data using Excel advanced functions (VLOOKUP, PivotTables)  
-- Supported inventory analysis reducing stock discrepancies by 15%  
-- Generated weekly sales reports for regional managers  
+- Processed pharmaceutical sales data using Excel  
+- Supported inventory analysis 
+- Generated weekly sales reports for manager
 
 ## Social Engagement 
 
