@@ -6,7 +6,7 @@ Expected Graduation: 2027
 ---
 
 ## Profile Summary  
-I’m a B.Com student with a strong focus on analytics. I’ve got hands-on experience working with data—cleaning it, analyzing it, and using business intelligence tools to make sense of it. Through internships and volunteer work, I’ve learned how to take what I’ve studied and apply it to real business problems. Now, I’m looking for opportunities where I can use data to help companies make smarter decisions.
+I’m a B.Com student with a strong focus on analytics. I’ve got hands-on experience working with data—cleaning it, analyzing it, and using business intelligence tools to make sense of it. Through internships and volunteer work, I’ve learned how to take what I’ve studied and apply it to real business problems. I'm now looking for opportunities where I can keep learning while helping turn data into useful insights for better business decisions.
 
 ---
 
