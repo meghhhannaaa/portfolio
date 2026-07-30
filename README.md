@@ -2,7 +2,7 @@
 **Final Year B.Com Analytics Student**  
 St. Joseph's College of Commerce, Bengaluru  
 Expected Graduation: April 2027  
-[Email](mailto:meghana21.731@gmail.com) | [Phone](tel:+919740081731) | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+[Email](mailto:meghana21.731@gmail.com) | [Phone](tel:+919740081731) | [LinkedIn](https://www.linkedin.com/in/meghana-j-ab7799282/) | [GitHub](https://github.com/your-username)
 
 ---
 
