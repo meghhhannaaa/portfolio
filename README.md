@@ -16,6 +16,7 @@ I'm a B.Com student with a strong focus on analytics. I've got hands-on experien
 St. Joseph's College of Commerce, Bengaluru  
 *2024 - 2027*
 - **Coursework:** Business Statistics, Business Mathematics, Python, R Programming, SQL, Financial Modelling on MS Excel, Financial Accounting, Generative AI, Power BI & Tableau
+
 - **Academic Highlights:** Analytics Club Member | Department of Professional Programmes Member
 
 ---
